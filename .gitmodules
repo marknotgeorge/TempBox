@@ -1,0 +1,4 @@
+[submodule "components/esp32-wifi-manager"]
+	path = components/esp32-wifi-manager
+	url = https://github.com/tonyp7/esp32-wifi-manager.git
+	branch = master
