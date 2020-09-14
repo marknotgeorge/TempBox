@@ -2,3 +2,6 @@
 	path = components/esp32-wifi-manager
 	url = https://github.com/tonyp7/esp32-wifi-manager.git
 	branch = master
+[submodule "components/oled_ssd1306"]
+	path = components/oled_ssd1306
+	url = https://github.com/gengyuchao/oled_ssd1306.git
