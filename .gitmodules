@@ -8,3 +8,6 @@
 [submodule "components/tarablessd1306"]
 	path = components/tarablessd1306
 	url = https://github.com/TaraHoleInIt/tarablessd1306.git
+[submodule "components/micro_tz_db"]
+	path = components/micro_tz_db
+	url = https://github.com/marknotgeorge/micro_tz_db.git
